@@ -16,7 +16,7 @@ export default function More() {
                     </div>
 
                     <div className="pr-4 text-xl">
-                        Daha Fazla
+                        Daha fwwazla
                     </div>
                 </div>
             </Popover.Button>
