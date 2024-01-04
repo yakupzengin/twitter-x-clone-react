@@ -4,7 +4,7 @@ const initialState = {
     currentAccount: {
         id:1,
         username:"yakupzngn16",
-        fullname:"./yakupzengin",
+        fullname:"yakup",
         avatar:"https://pbs.twimg.com/profile_images/1700596692305780736/TLSgDYrX_400x400.jpg"
     },
     accounts: []
